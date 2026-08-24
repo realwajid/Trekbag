@@ -1,6 +1,6 @@
 import BackgroundHeading from "./BackgroundHeading";
 import Footer from "./Footer";
-import ItemList from "./ItemList";
+import itemList from "./itemList";
 import Sidebar from "./SlideBar"; 
 import Header from "./Header";
 
