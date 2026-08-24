@@ -1,4 +1,4 @@
-import { useItemsStore } from "../stores/itemsStore";
+import { useItemsStore } from "../stores/ItemsStore";
 import AddItemForm from "./AddItemForm";
 import ButtonGroup from "./ButtonGroup";
 
