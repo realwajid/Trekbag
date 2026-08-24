@@ -1,7 +1,7 @@
 import Select from "react-select";
 import EmptyState from "./EmptyState";
 import { useMemo, useState } from "react";
-import { useItemsStore } from "../stores/itemsStore";
+import { useitemsStore } from "../stores/itemsStore";
 
 const sortingOptions = [
   { label: "Sort by default", value: "default" },
